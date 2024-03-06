@@ -1,0 +1,33 @@
+#box{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 5px;
+    border-style: double;
+    height: 100vh;
+    padding: 2px;
+    margin: 2px;
+    background-color: blueviolet;
+}
+
+#minus{
+    height: 40px;
+    width: 60px;
+    background-color: #d69213cf;
+}
+
+#count{
+    height: 40px;
+    width: 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: bisque;
+}
+
+#plus{
+    height: 40px;
+    width: 60px;
+    background-color: #d69213cf;
+}
+
